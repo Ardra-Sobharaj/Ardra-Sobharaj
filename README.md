@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ardra Sobharaj 👋
 
-<!--
-**Ardra-Sobharaj/Ardra-Sobharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-semester B.Tech student in Artificial Intelligence & Data Science at REVA University.
 
-Here are some ideas to get you started:
+I'm currently strengthening my programming fundamentals in C and Python while learning Data Structures and Algorithms. I enjoy solving programming problems and building small projects to apply what I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Learning
+
+- C Programming
+- Python
+- Data Structures & Algorithms
+- Problem Solving
+- MySQL
+
+## 🌱 Exploring
+
+- Software Development
+- AI / Machine Learning
+- Data Science
+
+## 🚀 Projects
+
+- **2D Graphics Shapes** — C, OpenGL/GLUT and basic computer graphics concepts
+- **Smart Door Lock System** — Arduino-based team project
+- **Personal Portfolio** — React, TypeScript and Vite
+
+## 🎯 Current Goal
+
+Become a stronger programmer by consistently practicing coding, improving problem-solving skills, and building meaningful projects.
+
+## 🔗 Connect With Me
+
+- [LinkedIn](www.linkedin.com/in/ardra-sobharaj)
+- [Portfolio](https://portfolio-alpha-liart-77.vercel.app/)
