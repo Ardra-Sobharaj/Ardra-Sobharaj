@@ -31,7 +31,7 @@ Become a stronger programmer by consistently practicing coding, improving proble
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/ardra-sobharaj)
+- [LinkedIn](https://www.linkedin.com/in/ardra-sobharaj-a21217335/)
 - [Portfolio](https://portfolio-alpha-liart-77.vercel.app/)
 - ## Portfolio
 
