@@ -23,6 +23,7 @@ I'm currently strengthening my programming fundamentals in C and Python while le
 - **2D Graphics Shapes** — C, OpenGL/GLUT and basic computer graphics concepts
 - **Smart Door Lock System** — Arduino-based team project
 - **Personal Portfolio** — React, TypeScript and Vite
+  
 
 ## 🎯 Current Goal
 
@@ -32,3 +33,6 @@ Become a stronger programmer by consistently practicing coding, improving proble
 
 - [LinkedIn](www.linkedin.com/in/ardra-sobharaj)
 - [Portfolio](https://portfolio-alpha-liart-77.vercel.app/)
+- ## Portfolio
+
+[View my portfolio](https://ardra-sobharaj.github.io/mywebsite-code/)
